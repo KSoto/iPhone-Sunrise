@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>Nova.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>Soto.Katie_asgt6.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -27,6 +32,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>CEA8AE3D16685C4F002253F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>CEB8173B1652FF3E00DBAB71</key>
 		<dict>
 			<key>primary</key>
