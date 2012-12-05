@@ -39,6 +39,8 @@
 @synthesize selectedRegion = _selectedRegion;
 @synthesize regionString = _regionString;
 
+@synthesize standardUserDefaults;
+
 //***********************************************
 //if a null pointer, we need to initalize it
 -(Location*) selectedRegion;

@@ -39,6 +39,8 @@
 @synthesize nautical;
 @synthesize astro;
 
+@synthesize standardUserDefaults;
+
 //***********************************************
 - (void)viewDidLoad
 {
